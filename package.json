@@ -1,0 +1,27 @@
+{
+  "name": "com.babuge.bbgBaidu.location",
+  "version": "0.0.1",
+  "description": "baidu location cordova plugin",
+  "cordova": {
+    "id": "com.babuge.bbgBaidu.location",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babuge/bbgLocation.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "babuge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babuge/bbgLocation/issues"
+  },
+  "homepage": "https://github.com/babuge/bbgLocation#readme"
+}
